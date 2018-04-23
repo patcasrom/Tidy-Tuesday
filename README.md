@@ -1,2 +1,4 @@
 # Tidy-Tuesday
-A weekly project that builds off #makeovermonday style projects but aimed at the R ecosystem. An emphasis will be placed on understanding how to summarize and arrange data to make meaningful charts with ggplot2, tidyr, dplyr, and other tools in the tidyverse ecosystem.
+
+Tidy Tuesday is a weekly project that builds off #makeovermonday style projects using the R programming language. The emphasis is on using data wrangling/munging techniques using R to prepare the data to be analyzed and create meaningful visualizations.
+The most common packages I use to participate in this weekly community project are tidyr for data cleaning, dplyr for data manipulation, and ggplot2 for data visualization, among other tools in the tidyverse ecosystem.
